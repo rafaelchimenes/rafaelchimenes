@@ -36,8 +36,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 </a>
 
----
-
 **🌐 Front-end:**  
 <a href="https://www.w3.org/html/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -51,8 +49,6 @@
 <a href="https://flutter.dev" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> 
 </a>
-
----
 
 **🗄️ Bancos de Dados:**  
 <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads" target="_blank"> 
@@ -68,14 +64,10 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
 </a>
 
----
-
 **📊 Data & BI:**  
 <a href="https://powerbi.microsoft.com" target="_blank"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
-</a> 
-
----
+</a>
 
 **🔧 Ferramentas:**  
 <a href="https://git-scm.com/" target="_blank"> 
@@ -115,9 +107,16 @@
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelchimenes&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelchimenes&layout=compact&theme=dracula" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com/?user=rafaelchimenes&theme=dracula" height="150" alt="streak graph"/>
+
+  <!-- Estatísticas gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelchimenes&show_icons=true&theme=dracula&count_private=true" height="150" alt="stats graph" />
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelchimenes&layout=compact&theme=dracula" height="150" alt="languages graph" />
+
+  <!-- Streak (dias seguidos de contribuição) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelchimenes&theme=dracula" height="150" alt="streak graph" />
+
 </div>
 
 ---
